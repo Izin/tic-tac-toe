@@ -19,7 +19,7 @@ bash app.sh
 ###Warning
 Single player is not implemented. So you can play alternately Player1 and then 
 Player2, or (much better) play with a friend using an instant terminal 
-sharing app, like [tmate](http://tmate.io/), which is definitely super cool ;).
+sharing app, like [tmate](http://tmate.io/) ;).
 
 
 ###Ideas, Bugs
