@@ -17,11 +17,10 @@ bash app.sh
 ```
 
 ###Warning
-```
 Single player is not implemented. To play with a friend, I advize you to use 
 an instant terminal sharing app, like [tmate](http://tmate.io/). 
 Then, enjoy the fun ;).
-```
+
 
 ###Ideas, Bugs
 Don't hesitate to [contact me](http://maloblanchard.com/contact).
