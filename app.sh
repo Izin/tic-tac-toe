@@ -11,8 +11,8 @@ source ./frontend.sh
 #  * @email   contact@maloblanchard.com
 #  * @version 0.3
 #  *
-#  * @param {String}  $1      init, restart, or something else
-#  * @param {String}  $2      1 if player wants to view help
+#  * @param {String}  $1  init, restart, or something else
+#  * @param {String}  $2  1 if player wants to view help
 #  */
 function main() {
   case $1 in
