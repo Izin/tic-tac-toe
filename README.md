@@ -26,6 +26,11 @@ sharing app, like [tmate](http://tmate.io/) ;).
 Don't hesitate to [contact me](http://maloblanchard.com/contact).
 
 
+###Thanks
+Many thanks to [Romain Baumier](https://github.com/rbaumier)
+for his help.
+
+
 ###Changelog
 ```
 v0.3
