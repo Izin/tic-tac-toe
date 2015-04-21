@@ -22,10 +22,6 @@ Player2, or (much better) play with a friend using an instant terminal
 sharing app, like [tmate](http://tmate.io/) ;).
 
 
-###Ideas, Bugs
-Don't hesitate to [contact me](http://maloblanchard.com/contact).
-
-
 ###Thanks
 Many thanks to [Romain Baumier](https://github.com/rbaumier)
 for his help.
