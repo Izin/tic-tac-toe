@@ -7,7 +7,7 @@ Here is THE original tic-tac-toe game made with love during classroom in order t
 
 ###Install & Play
 ```
-git clone git@github.com:maloblanchard/tic-tac-toe.git
+git clone git@github.com:Izin/tic-tac-toe.git
 cd tic-tac-toe/
 bash play.sh
 ```
