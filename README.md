@@ -2,14 +2,14 @@
 
 ![Banner](banner.jpg "Tic-Tac-Toe")
 
-Here it is! THE original tic-tac-toe game! Made with love during classroom in order to improve my level in scripting.
+Here is THE original tic-tac-toe game made with love during classroom in order to improve my scripting level.
 
 
 ###Install & Play
 ```
 git clone git@github.com:maloblanchard/tic-tac-toe.git
 cd tic-tac-toe/
-bash app.sh
+bash play.sh
 ```
 
 ###Warning
