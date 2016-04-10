@@ -8,7 +8,7 @@ source ./frontend.sh
 #  * Entry of the application.
 #  *
 #  * @author  Malo Blanchard
-#  * @email   contact@maloblanchard.com
+#  * @email   github@maloblanchard.com
 #  * @version 0.3
 #  *
 #  * @param {String}  $1  init, restart, or something else
