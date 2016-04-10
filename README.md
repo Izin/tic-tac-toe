@@ -1,15 +1,11 @@
-#Tic-Tac-Toe
+# Tic-Tac-Toe
 
 ![Banner](banner.jpg "Tic-Tac-Toe")
 
-Here is the original tic-tac-toe game! I made it in bash to improve my level
-in shell scripts, and because the course was too boring :P! To play this game 
-just follow instructions the below.
-
-May the power of banana be with you!
+Here it is! THE original tic-tac-toe game! Made with love during classroom in order to improve my level in scripting.
 
 
-###Use
+###Install & Play
 ```
 git clone git@github.com:maloblanchard/tic-tac-toe.git
 cd tic-tac-toe/
@@ -17,14 +13,13 @@ bash app.sh
 ```
 
 ###Warning
-Single player is not implemented. So you can play alternately Player1 and then 
-Player2, or (much better) play with a friend using an instant terminal 
+Single player is not implemented. So you can play alternately as Player1 and then 
+Player2, but I strongly recommand you to play with a friend using an instant terminal 
 sharing app, like [tmate](http://tmate.io/) ;).
 
 
 ###Thanks
-Many thanks to [Romain Baumier](https://github.com/rbaumier)
-for his help.
+Many thanks to [Romain Baumier](https://github.com/rbaumier) for it's help.
 
 
 ###Changelog
