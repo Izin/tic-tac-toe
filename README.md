@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-![Banner](banner.jpg "Tic-Tac-Toe")
+![Banner](banner.jpg "Banner")
 
 Here is THE original tic-tac-toe game made with love during classroom in order to improve my scripting level.
 
@@ -13,8 +13,8 @@ bash play.sh
 ```
 
 ###Warning
-Single player is not implemented. So you can play alternately as Player1 and then 
-Player2, but I strongly recommand you to play with a friend using an instant terminal 
+Single player is not implemented. So you can play alternately as Player1 and then
+Player2, but I strongly recommand you to play with a friend using an instant terminal
 sharing app, like [tmate](http://tmate.io/) ;).
 
 

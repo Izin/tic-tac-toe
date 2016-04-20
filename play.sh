@@ -1,35 +1,14 @@
 #!/bin/bash
+###############################################################################
+## A simple ASCII TicTacToe game made with bash
+## @author  Malo Blanchard
+## @email   github@maloblanchard.com
+## @version 2.0.0
+###############################################################################
 
-source ./backend.sh
-source ./frontend.sh
+source ./src/utils.sh
+source ./src/back.sh
+source ./src/front.sh
 
-
-# /**
-#  * Entry of the application.
-#  *
-#  * @author  Malo Blanchard
-#  * @email   github@maloblanchard.com
-#  * @version 0.3
-#  *
-#  * @param {String}  $1  init, restart, or something else
-#  * @param {String}  $2  1 if player wants to view help
-#  */
-function main() {
-  case $1 in
-    init)     init; main "bob";;
-    next)     next;;
-    quit)     quit;;
-    restart)  restart;;
-    victory)  victory;;
-    equality) equality;;
-           *)
-              header 1
-              body
-              if [[ $2 == 1 ]]; then help; fi
-              footer
-              input
-              ;;
-  esac
-}
-
-main "init"
+# Go!
+ttt.start
